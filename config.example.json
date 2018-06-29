@@ -1,0 +1,9 @@
+{
+  "domain": "XXX.echopf.com",
+  "applicationId": "YOUR_APPLICATION_ID",
+  "applicationKey": "YOUR_APPLICATION_KEY",
+  "memberInstanceId": "admin",
+  "login_id": "admin",
+  "password": "password",
+  "databaseInstanceId": "homebridge"
+}

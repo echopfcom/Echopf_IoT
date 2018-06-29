@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
         value: value
       })
       .then(res => {
-        console.log(res);
+        $('#result').html('登録しました');
       });
   }
 });
